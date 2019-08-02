@@ -1,0 +1,33 @@
+doctype html
+head
+	//Sets character set for document
+	meta(charset='utf-8')
+	//Sets viewing settings of document
+	meta(name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no')
+	//title of app
+	title Chat App
+	//Get bootstrap CDN
+	link(rel='stylesheet' href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css')
+	link(rel='stylesheet' href='//maxcdn.bootstrapcdn.com/font-/4.4.0/css/font-awesome.min.css')
+	link(rel='stylesheet', href="/css/signup.css")
+body
+	.container-fluid
+		.row
+			.col-md-12
+				textarea#username(placeholder='Username')
+		.row
+			.col-md-12
+				textarea#password(placeholder='Password')
+		.row
+			.col-md-12
+				span#signup
+					b Sign Up!
+//JavaScript
+script(src='//code.jquery.com/jquery-2.2.0.min.js')
+script(src='/js/vendor/jquery-throttle.min.js')
+script(src='/js/vendor/jquery.loadTemplate-1.4.4.min.js')
+script(src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js')
+script(src='//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.1/moment.min.js')
+script(src='//media.twiliocdn.com/sdk/js/common/v0.1/twilio-common.min.js')
+script(src='//media.twiliocdn.com/sdk/js/chat/v3.0/twilio-chat.min.js')
+script(src='/js/signup.js')
