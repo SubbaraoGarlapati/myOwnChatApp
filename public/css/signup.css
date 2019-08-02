@@ -1,0 +1,19 @@
+html {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#username {
+	height: 10vh;
+}
+#username.disconnected {
+	visibility: hidden;
+}
+#password {
+	height: 10vh;
+}
+#signup {
+	height: 10vh;
+	cursor: pointer;
+}

@@ -1,0 +1,21 @@
+html {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#entry-row {
+	height: 10vh;
+}
+#login-row {
+	height: 10vh;
+}
+#signup-row {
+	height: 10vh;
+}
+#login-span {
+	cursor: pointer;
+}
+#signup-span {
+	cursor: pointer;
+}
