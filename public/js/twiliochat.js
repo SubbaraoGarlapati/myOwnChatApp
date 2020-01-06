@@ -56,7 +56,7 @@ var twiliochat = (function() {
       notifyTyping();
     }
   }
-
+ 
   var notifyTyping = $.throttle(function() {
     tc.currentChannel.typing();
   }, 1000);
