@@ -36,3 +36,4 @@ function TokenGenerator(identity, deviceId) {
 
 //set the exports of module to be an object with function TokenGenerator named 'generate'
 module.exports = { generate: TokenGenerator };
+ 
