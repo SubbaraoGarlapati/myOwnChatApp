@@ -24,3 +24,5 @@
   channels was difficult. Another challenge was adding in the actual web capabilities. Learning how to integrate html and css with 
   twilio (e.g. taking messages the user wants to send and actually displaying them using html and css) was something completely foreign
   to me. In addition, I had to learn how to use bootstrap in order to allow for different window resizing.</h6>
+  
+<h6> My favorite part about this project was integrating a variety of tools to produce the final outcome. Technologies I implemented included Twilio, Express.js, HTML, CSS, and Bootstrap. The next step I would implement would be adding calling features, as well as stronger user authentication features with password capabilities.</h6>
