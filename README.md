@@ -4,7 +4,7 @@
 ### Project Screen Shots
 ###### Initial
 <img src="https://github.com/SubbaraoGarlapati/myOwnChatApp/blob/master/ReadMeImages/Initial.png" width="500">
-###### Attempting Empty Username
+<h6>Attempting Empty Username</h6>
 <img src="https://github.com/SubbaraoGarlapati/myOwnChatApp/blob/master/ReadMeImages/emptyUsername.png" width="500">
 ###### Username Subbarao
 <img src="https://github.com/SubbaraoGarlapati/myOwnChatApp/blob/master/ReadMeImages/usernameSubbarao.png" width="500">
